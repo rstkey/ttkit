@@ -1,5 +1,3 @@
-[![Crates.io](https://img.shields.io/crates/v/tuikit.svg)](https://crates.io/crates/tuikit) [![Build Status](https://github.com/lotabout/tuikit/workflows/Build%20&%20Test/badge.svg)](https://github.com/lotabout/tuikit/actions?query=workflow%3A%22Build+%26+Test%22)
-
 ## Tuikit
 
 Tuikit is a TUI library for writing terminal UI applications. Highlights:
